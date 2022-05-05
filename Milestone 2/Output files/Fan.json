@@ -1,0 +1,163 @@
+[
+	{
+		"Username" : "animats",
+		"Email" : "animats@live.com",
+		"Gender" : "M",
+		"DoB" : "1945-01-03",
+		"ClubName" : "Blackpool"
+	},
+	{
+		"Username" : "bflong",
+		"Email" : "bflong@att.net",
+		"Gender" : "M",
+		"DoB" : "2022-08-16",
+		"ClubName" : "Brentford"
+	},
+	{
+		"Username" : "boftx",
+		"Email" : "boftx@msn.com",
+		"Gender" : "M",
+		"DoB" : "1998-02-01",
+		"ClubName" : "Norwich City"
+	},
+	{
+		"Username" : "cfhsoft",
+		"Email" : "cfhsoft@optonline.net",
+		"Gender" : "F",
+		"DoB" : "2022-08-16",
+		"ClubName" : "Leeds United"
+	},
+	{
+		"Username" : "cumarana",
+		"Email" : "cumarana@icloud.com",
+		"Gender" : "M",
+		"DoB" : "1990-01-01",
+		"ClubName" : "Everton"
+	},
+	{
+		"Username" : "esokullu",
+		"Email" : "esokullu@yahoo.ca",
+		"Gender" : "M",
+		"DoB" : "1930-04-20",
+		"ClubName" : "AFC Bournemouth"
+	},
+	{
+		"Username" : "facet",
+		"Email" : "facet@yahoo.com",
+		"Gender" : "F",
+		"DoB" : "1978-03-04",
+		"ClubName" : "Huddersfield Town"
+	},
+	{
+		"Username" : "falcao",
+		"Email" : "falcao@yahoo.com",
+		"Gender" : "M",
+		"DoB" : "2000-01-07",
+		"ClubName" : "Ipswich Town"
+	},
+	{
+		"Username" : "flavell",
+		"Email" : "flavell@live.com",
+		"Gender" : "F",
+		"DoB" : "1982-02-26",
+		"ClubName" : "Bolton Wanderers"
+	},
+	{
+		"Username" : "gozer",
+		"Email" : "gozer@gmail.com",
+		"Gender" : "M",
+		"DoB" : "1990-01-01",
+		"ClubName" : "Newcastle United"
+	},
+	{
+		"Username" : "jessicajohnson",
+		"Email" : "aaronhopkins@hotmail.com",
+		"Gender" : "F",
+		"DoB" : "2022-08-16",
+		"ClubName" : "Liverpool"
+	},
+	{
+		"Username" : "jfmulder",
+		"Email" : "jfmulder@comcast.net",
+		"Gender" : "F",
+		"DoB" : "1945-01-03",
+		"ClubName" : "Leicester City"
+	},
+	{
+		"Username" : "jonadab",
+		"Email" : "jonadab@msn.com",
+		"Gender" : "M",
+		"DoB" : "1930-04-20",
+		"ClubName" : "Manchester City"
+	},
+	{
+		"Username" : "leeashley",
+		"Email" : "tamaramorrison@hotmail.com",
+		"Gender" : "M",
+		"DoB" : "1945-01-03",
+		"ClubName" : "Chelsea"
+	},
+	{
+		"Username" : "lyonspeter",
+		"Email" : "deborah64@gmail.com",
+		"Gender" : "M",
+		"DoB" : "1982-02-26",
+		"ClubName" : "Arsenal"
+	},
+	{
+		"Username" : "melnik",
+		"Email" : "melnik@optonline.net",
+		"Gender" : "F",
+		"DoB" : "1982-02-26",
+		"ClubName" : "Liverpool"
+	},
+	{
+		"Username" : "monica23",
+		"Email" : "danny30@yahoo.com",
+		"Gender" : "M",
+		"DoB" : "1930-04-20",
+		"ClubName" : "Liverpool"
+	},
+	{
+		"Username" : "perezbilly",
+		"Email" : "epetersen@yahoo.com",
+		"Gender" : "F",
+		"DoB" : "1988-07-12",
+		"ClubName" : "Portsmouth"
+	},
+	{
+		"Username" : "rafasgj",
+		"Email" : "rafasgj@live.com",
+		"Gender" : "M",
+		"DoB" : "1980-02-05",
+		"ClubName" : "Hull City"
+	},
+	{
+		"Username" : "sjmuir",
+		"Email" : "sjmuir@me.com",
+		"Gender" : "F",
+		"DoB" : "1998-02-01",
+		"ClubName" : "Fulham"
+	},
+	{
+		"Username" : "sriha",
+		"Email" : "sriha@yahoo.com",
+		"Gender" : "M",
+		"DoB" : "2022-08-16",
+		"ClubName" : "Middlesbrough"
+	},
+	{
+		"Username" : "storerm",
+		"Email" : "storerm@optonline.net",
+		"Gender" : "M",
+		"DoB" : "1988-07-12",
+		"ClubName" : "Bradford City"
+	},
+	{
+		"Username" : "uraeus",
+		"Email" : "uraeus@optonline.net",
+		"Gender" : "M",
+		"DoB" : "1988-07-12",
+		"ClubName" : "Manchester United"
+	}
+]
