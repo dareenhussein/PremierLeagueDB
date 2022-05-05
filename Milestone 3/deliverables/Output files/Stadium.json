@@ -1,0 +1,222 @@
+[
+	{
+		"Name" : "Amex Stadium",
+		"ClubName" : "Brighton and Hove Albion",
+		"Attendance" : 30565,
+		"BuildingDate" : 2011,
+		"Street" : "American Express Community Stadium, Village Way",
+		"District" : "BN1 9BL",
+		"City" : "Brighton",
+		"Capacity" : 30666,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Anfield",
+		"ClubName" : "Liverpool",
+		"Attendance" : 53292,
+		"BuildingDate" : 1884,
+		"Street" : "Anfield, Anfield Road",
+		"District" : "L4 0TH",
+		"City" : "Liverpool",
+		"Capacity" : 53394,
+		"PitchSize" : "101m x 68m"
+	},
+	{
+		"Name" : "Brentford Community Stadium",
+		"ClubName" : "Brentford",
+		"Attendance" : null,
+		"BuildingDate" : 2020,
+		"Street" : "Brentford Community Stadium, Lionel Road South",
+		"District" : "TW8 0RU",
+		"City" : "Brentford",
+		"Capacity" : 17250,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Carrow Road",
+		"ClubName" : "Norwich City",
+		"Attendance" : null,
+		"BuildingDate" : 1935,
+		"Street" : "Carrow Road",
+		"District" : "NR1 1JE",
+		"City" : "Norwich",
+		"Capacity" : 27359,
+		"PitchSize" : "104m x 68m"
+	},
+	{
+		"Name" : "Elland Road",
+		"ClubName" : "Leeds United",
+		"Attendance" : null,
+		"BuildingDate" : 1897,
+		"Street" : "Elland Road",
+		"District" : "LS11 0ES",
+		"City" : "Leeds",
+		"Capacity" : 37890,
+		"PitchSize" : "106m x 69m"
+	},
+	{
+		"Name" : "Emirates Stadium",
+		"ClubName" : "Arsenal",
+		"Attendance" : 60161,
+		"BuildingDate" : 2006,
+		"Street" : "Highbury House, 75 Drayton Park",
+		"District" : "N5 1BU",
+		"City" : "London",
+		"Capacity" : 60260,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Etihad Stadium",
+		"ClubName" : "Manchester City",
+		"Attendance" : 54693,
+		"BuildingDate" : 2002,
+		"Street" : "Etihad Stadium, Etihad Campus",
+		"District" : "M11 3FF",
+		"City" : "Manchester",
+		"Capacity" : 55017,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Goodison Park",
+		"ClubName" : "Everton",
+		"Attendance" : 40552,
+		"BuildingDate" : 1892,
+		"Street" : "Goodison Park, Goodison Road",
+		"District" : "L4 4EL",
+		"City" : "Liverpool",
+		"Capacity" : 39221,
+		"PitchSize" : "100.48m x 68m"
+	},
+	{
+		"Name" : "King Power Stadium",
+		"ClubName" : "Leicester City",
+		"Attendance" : 32242,
+		"BuildingDate" : 2002,
+		"Street" : "King Power Stadium, Filbert Way",
+		"District" : "LE2 7FL",
+		"City" : "Leicester",
+		"Capacity" : 32273,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "London Stadium",
+		"ClubName" : "West Ham United",
+		"Attendance" : 59946,
+		"BuildingDate" : 2011,
+		"Street" : "London Stadium, Queen Elizabeth Olympic Park",
+		"District" : "E20 2ST",
+		"City" : "London",
+		"Capacity" : 60000,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Molineux Stadium",
+		"ClubName" : "Wolverhampton Wanderers",
+		"Attendance" : 31322,
+		"BuildingDate" : 1889,
+		"Street" : "Molineux Stadium, Waterloo Rd",
+		"District" : "WV1 4QR",
+		"City" : "Wolverhampton",
+		"Capacity" : 32050,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Old Trafford",
+		"ClubName" : "Manchester United",
+		"Attendance" : 76098,
+		"BuildingDate" : 1909,
+		"Street" : "Sir Matt Busby Way, Old Trafford",
+		"District" : "M16 0RA",
+		"City" : "Manchester",
+		"Capacity" : 74879,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Selhurst Park",
+		"ClubName" : "Crystal Palace",
+		"Attendance" : 30115,
+		"BuildingDate" : 1924,
+		"Street" : "Selhurst Park Stadium, Holmesdale Road",
+		"District" : "SE25 6PU",
+		"City" : "London",
+		"Capacity" : 25486,
+		"PitchSize" : "101m x 68m"
+	},
+	{
+		"Name" : "St. James' Park",
+		"ClubName" : "Newcastle United",
+		"Attendance" : 52490,
+		"BuildingDate" : 1892,
+		"Street" : "St. James' Park, Strawberry Place",
+		"District" : "NE1 4ST",
+		"City" : "Newcastle Upon Tyne",
+		"Capacity" : 52305,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "St. Mary's Stadium",
+		"ClubName" : "Southampton",
+		"Attendance" : 32151,
+		"BuildingDate" : 2001,
+		"Street" : "St Mary's Stadium, Britannia Road",
+		"District" : "SO14 5FP",
+		"City" : "Southampton",
+		"Capacity" : 32384,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Stamford Bridge",
+		"ClubName" : "Chelsea",
+		"Attendance" : 42332,
+		"BuildingDate" : 1877,
+		"Street" : "Stamford Bridge, Fulham Road",
+		"District" : "SW6 1HS",
+		"City" : "London",
+		"Capacity" : 40853,
+		"PitchSize" : "103m x 67.5m"
+	},
+	{
+		"Name" : "Tottenham Hotspur Stadium",
+		"ClubName" : "Tottenham Hotspur",
+		"Attendance" : null,
+		"BuildingDate" : 2019,
+		"Street" : " Lilywhite House, 782 High Road, Tottenham",
+		"District" : "N17 0BX",
+		"City" : "London",
+		"Capacity" : 62062,
+		"PitchSize" : "100m x 67m"
+	},
+	{
+		"Name" : "Turf Moor",
+		"ClubName" : "Burnley",
+		"Attendance" : 21870,
+		"BuildingDate" : 1883,
+		"Street" : " Turf Moor, Harry Potts Way, Burnley",
+		"District" : "BB10 4BX",
+		"City" : "Lancashire",
+		"Capacity" : 21944,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Vicarage Road",
+		"ClubName" : "Watford",
+		"Attendance" : 21590,
+		"BuildingDate" : 1922,
+		"Street" : "Vicarage Road Stadium, Watford",
+		"District" : "WD18 0ER",
+		"City" : "Hertfordshire",
+		"Capacity" : 21000,
+		"PitchSize" : "105m x 68m"
+	},
+	{
+		"Name" : "Villa Park",
+		"ClubName" : "Aston Villa",
+		"Attendance" : null,
+		"BuildingDate" : 1897,
+		"Street" : "Villa Park, Trinity Road",
+		"District" : "B6 6HE",
+		"City" : "Birmingham",
+		"Capacity" : 42682,
+		"PitchSize" : "105m x 68m"
+	}
+]
