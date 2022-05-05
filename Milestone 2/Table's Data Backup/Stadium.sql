@@ -1,0 +1,24 @@
+/*
+-- Query: select * from stadium
+-- Date: 2022-04-11 23:38
+*/
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Amex Stadium','Brighton and Hove Albion',30565,2011,'American Express Community Stadium, Village Way','BN1 9BL','Brighton',30666,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Anfield','Liverpool',53292,1884,'Anfield, Anfield Road','L4 0TH','Liverpool',53394,'101m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Brentford Community Stadium','Brentford',NULL,2020,'Brentford Community Stadium, Lionel Road South','TW8 0RU','Brentford',17250,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Carrow Road','Norwich City',NULL,1935,'Carrow Road','NR1 1JE','Norwich',27359,'104m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Elland Road','Leeds United',NULL,1897,'Elland Road','LS11 0ES','Leeds',37890,'106m x 69m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Emirates Stadium','Arsenal',60161,2006,'Highbury House, 75 Drayton Park','N5 1BU','London',60260,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Etihad Stadium','Manchester City',54693,2002,'Etihad Stadium, Etihad Campus','M11 3FF','Manchester',55017,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Goodison Park','Everton',40552,1892,'Goodison Park, Goodison Road','L4 4EL','Liverpool',39221,'100.48m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('King Power Stadium','Leicester City',32242,2002,'King Power Stadium, Filbert Way','LE2 7FL','Leicester',32273,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('London Stadium','West Ham United',59946,2011,'London Stadium, Queen Elizabeth Olympic Park','E20 2ST','London',60000,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Molineux Stadium','Wolverhampton Wanderers',31322,1889,'Molineux Stadium, Waterloo Rd','WV1 4QR','Wolverhampton',32050,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Old Trafford','Manchester United',76098,1909,'Sir Matt Busby Way, Old Trafford','M16 0RA','Manchester',74879,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Selhurst Park','Crystal Palace',30115,1924,'Selhurst Park Stadium, Holmesdale Road','SE25 6PU','London',25486,'101m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('St. James\' Park','Newcastle United',52490,1892,'St. James\' Park, Strawberry Place','NE1 4ST','Newcastle Upon Tyne',52305,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('St. Mary\'s Stadium','Southampton',32151,2001,'St Mary\'s Stadium, Britannia Road','SO14 5FP','Southampton',32384,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Stamford Bridge','Chelsea',42332,1877,'Stamford Bridge, Fulham Road','SW6 1HS','London',40853,'103m x 67.5m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Tottenham Hotspur Stadium','Tottenham Hotspur',NULL,2019,' Lilywhite House, 782 High Road, Tottenham','N17 0BX','London',62062,'100m x 67m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Turf Moor','Burnley',21870,1883,' Turf Moor, Harry Potts Way, Burnley','BB10 4BX','Lancashire',21944,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Vicarage Road','Watford',21590,1922,'Vicarage Road Stadium, Watford','WD18 0ER','Hertfordshire',21000,'105m x 68m');
+INSERT INTO `` (`Name`,`ClubName`,`Attendance`,`BuildingDate`,`Street`,`District`,`City`,`Capacity`,`PitchSize`) VALUES ('Villa Park','Aston Villa',NULL,1897,'Villa Park, Trinity Road','B6 6HE','Birmingham',42682,'105m x 68m');
