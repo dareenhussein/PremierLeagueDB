@@ -1,0 +1,252 @@
+[
+	{
+		"Name" : "AFC Bournemouth",
+		"HomeStadium" : "Vitality Stadium",
+		"Website" : "http://www.afcb.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Arsenal",
+		"HomeStadium" : "Emirates Stadium",
+		"Website" : "https://www.arsenal.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Aston Villa",
+		"HomeStadium" : "Villa Park",
+		"Website" : "https://www.avfc.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Barnsley",
+		"HomeStadium" : "Oakwell",
+		"Website" : null
+	},
+	{
+		"Name" : "Birmingham City",
+		"HomeStadium" : "St. Andrew's Trillion Trophy Stadium",
+		"Website" : null
+	},
+	{
+		"Name" : "Blackburn Rovers",
+		"HomeStadium" : "Ewood Park",
+		"Website" : null
+	},
+	{
+		"Name" : "Blackpool",
+		"HomeStadium" : "Bloomfield Road",
+		"Website" : null
+	},
+	{
+		"Name" : "Bolton Wanderers",
+		"HomeStadium" : "University of Bolton Stadium",
+		"Website" : null
+	},
+	{
+		"Name" : "Bradford City",
+		"HomeStadium" : "Valley Parade",
+		"Website" : null
+	},
+	{
+		"Name" : "Brentford",
+		"HomeStadium" : "Brentford Community Stadium",
+		"Website" : "https://www.brentfordfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Brighton and Hove Albion",
+		"HomeStadium" : "Amex Stadium",
+		"Website" : "https://www.brightonandhovealbion.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Burnley",
+		"HomeStadium" : "Turf Moor",
+		"Website" : "http://www.burnleyfootballclub.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Cardiff City",
+		"HomeStadium" : "Cardiff City Stadium",
+		"Website" : "http://www.cardiffcityfc.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Charlton Athletic",
+		"HomeStadium" : "The Valley",
+		"Website" : null
+	},
+	{
+		"Name" : "Chelsea",
+		"HomeStadium" : "Stamford Bridge",
+		"Website" : "https://www.chelseafc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Coventry City",
+		"HomeStadium" : "Highfield Road",
+		"Website" : null
+	},
+	{
+		"Name" : "Crystal Palace",
+		"HomeStadium" : "Selhurst Park",
+		"Website" : "http://www.cpfc.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Derby County",
+		"HomeStadium" : "Pride Park Stadium",
+		"Website" : null
+	},
+	{
+		"Name" : "Everton",
+		"HomeStadium" : "Goodison Park",
+		"Website" : "http://www.evertonfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Fulham",
+		"HomeStadium" : "Craven Cottage",
+		"Website" : "http://www.fulhamfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Huddersfield Town",
+		"HomeStadium" : "John Smith's Stadium",
+		"Website" : "https://www.htafc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Hull City",
+		"HomeStadium" : "KCOM Stadium",
+		"Website" : "http://www.hullcitytigers.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Ipswich Town",
+		"HomeStadium" : "Portman Road",
+		"Website" : null
+	},
+	{
+		"Name" : "Leeds United",
+		"HomeStadium" : "Elland Road",
+		"Website" : "http://www.leedsunited.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Leicester City",
+		"HomeStadium" : "King Power Stadium",
+		"Website" : "http://www.lcfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Liverpool",
+		"HomeStadium" : "Anfield",
+		"Website" : "http://www.liverpoolfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Manchester City",
+		"HomeStadium" : "Etihad Stadium",
+		"Website" : "http://www.mancity.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Manchester United",
+		"HomeStadium" : "Old Trafford",
+		"Website" : "http://www.manutd.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Middlesbrough",
+		"HomeStadium" : "Riverside Stadium",
+		"Website" : "http://www.mfc.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Newcastle United",
+		"HomeStadium" : "St. James' Park",
+		"Website" : "http://www.nufc.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Norwich City",
+		"HomeStadium" : "Carrow Road",
+		"Website" : "http://www.canaries.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Nottingham Forest",
+		"HomeStadium" : "City Ground",
+		"Website" : null
+	},
+	{
+		"Name" : "Oldham Athletic",
+		"HomeStadium" : "Boundary Park",
+		"Website" : null
+	},
+	{
+		"Name" : "Portsmouth",
+		"HomeStadium" : "Fratton Park",
+		"Website" : null
+	},
+	{
+		"Name" : "Queens Park Rangers",
+		"HomeStadium" : "Loftus Road",
+		"Website" : null
+	},
+	{
+		"Name" : "Reading",
+		"HomeStadium" : "Madejski Stadium",
+		"Website" : null
+	},
+	{
+		"Name" : "Sheffield United",
+		"HomeStadium" : "Bramall Lane",
+		"Website" : "http://www.sufc.co.uk/?utm_source=www.premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Sheffield Wednesday",
+		"HomeStadium" : "Hillsborough",
+		"Website" : null
+	},
+	{
+		"Name" : "Southampton",
+		"HomeStadium" : "St. Mary's Stadium",
+		"Website" : "https://www.southamptonfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Stoke City",
+		"HomeStadium" : "bet365 Stadium",
+		"Website" : "http://www.stokecityfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Sunderland",
+		"HomeStadium" : "Stadium of Light",
+		"Website" : "http://www.safc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Swansea City",
+		"HomeStadium" : "Liberty Stadium",
+		"Website" : "http://www.swanseacity.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Swindon Town",
+		"HomeStadium" : "County Ground",
+		"Website" : null
+	},
+	{
+		"Name" : "Tottenham Hotspur",
+		"HomeStadium" : "Tottenham Hotspur Stadium",
+		"Website" : "http://www.tottenhamhotspur.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Watford",
+		"HomeStadium" : "Vicarage Road",
+		"Website" : "https://www.watfordfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "West Bromwich Albion",
+		"HomeStadium" : "The Hawthorns",
+		"Website" : "http://www.wba.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "West Ham United",
+		"HomeStadium" : "London Stadium",
+		"Website" : "http://www.whufc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	},
+	{
+		"Name" : "Wigan Athletic",
+		"HomeStadium" : "DW Stadium",
+		"Website" : null
+	},
+	{
+		"Name" : "Wimbledon",
+		"HomeStadium" : "Selhurst Park",
+		"Website" : null
+	},
+	{
+		"Name" : "Wolverhampton Wanderers",
+		"HomeStadium" : "Molineux Stadium",
+		"Website" : "http://www.wolves.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+	}
+]
